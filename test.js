@@ -1,15 +1,4 @@
-# bfuck
-A Brainfuck compiler for Javascript.
-
-``` javascript
-const bfuck = require("bfuck");
+const bfuck = require("./");
 
 const func = bfuck(`++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.`);
 console.log(func());
-```
-
-```
-Hello World!
-
-
-```

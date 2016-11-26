@@ -1,0 +1,19 @@
+{
+  "name": "bfuck",
+  "version": "0.0.1",
+  "description": "A Brainfuck compiler for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/bfuck.git"
+  },
+  "author": "Monty Anderson <monty.linux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montyanderson/bfuck/issues"
+  },
+  "homepage": "https://github.com/montyanderson/bfuck#readme"
+}
